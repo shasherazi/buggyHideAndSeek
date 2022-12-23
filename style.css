@@ -1,0 +1,37 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    text-align: center;
+}
+
+input {
+    height: 30px;
+    font-size: large;
+    padding: 10px;
+}
+
+button {
+    margin-top: 20px;
+    height: 30px;
+    font-size: large;
+    cursor: pointer;
+}
+
+.result {
+    margin-top: 20px;
+    text-align: center;
+}
